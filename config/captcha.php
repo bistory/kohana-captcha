@@ -29,7 +29,7 @@ return array(
 		'promote'    	=> FALSE,
 	),
 	// Words of varying length for Captcha_Word to pick from
-	// Note: all Unicode characters should work, but not everyone can type them, so be careful with that (no japanese/chinese captcha please ;))
+	// Note: use only alphanumeric characters
 	'words' => array
 	(
 		'cd', 'tv', 'it', 'to', 'be', 'or',
