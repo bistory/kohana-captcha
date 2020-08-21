@@ -1,8 +1,8 @@
-#Captcha for Kohana 3.x
+# Captcha for Kohana 3.x
 
 This is the Captcha library ported from Kohana 2.3.x to 3.x. Very little has changed API-wise, although there have been a few changes.
 
-##Getting Started
+## Getting Started
 
 Instantiate a captcha:
 
@@ -28,7 +28,7 @@ By default image-based captchas are rendered with HTML, the HTML is a very simpl
 
 > $captcha->render(FALSE);
 
-##Captcha Styles
+## Captcha Styles
 
 * alpha
 * basic
